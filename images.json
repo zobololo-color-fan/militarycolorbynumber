@@ -4,6 +4,16 @@
     "number": [
         {
             "bgImageName": "militarycolorbynumber",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n403.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n404.png"
+        },
+        {
+            "bgImageName": "militarycolorbynumber",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n409.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n410.png"
+        },
+        {
+            "bgImageName": "militarycolorbynumber",
             "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n1.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/militarycolorbynumber/refs/heads/main/n2.png"
         },
